@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+Welcome+to+my+profile!😃;Nice+to+meet+you,+I'm+Leonardo+"Krieger"+Rodrigues!😉;Straight+outta+Brazil-Lages,SC+🌎;I+study+Analysis+and+systems+development+at+University+north+of+Paraná+💻👨‍🎓;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+There,+Welcome+to+my+profile!😃;Nice+to+meet+you,+I'm+Leonardo+Rodrigues!😉;Straight+outta+Brazil-Lages,SC+🌎;I+study+SAP+at+U+N+O+Par+💻👨‍🎓;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -22,6 +22,7 @@
 </div> 
  
 ### Main skills:
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=)&nbsp; 
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
  
 ### Tools:
@@ -32,6 +33,9 @@
  
 ### Studying in this moment:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![JAVASCRIPT](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=)&nbsp; 
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&logoColor=)&nbsp; 
+![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
